@@ -1,0 +1,13 @@
+- npm install
+
+# entre nas confirmações
+
+- npx prisma migrate dev
+
+# rodar o banco
+
+- docker-compose up
+
+# rodar o projeto
+
+- npx run dev
